@@ -194,7 +194,7 @@ CALCULATOR_MAP: dict[str, type[Calculator]] = {
 
 DEFAULT_KEYS_TO_IGNORE = [
     "PASSKEY",
-    "dateutc",
+    #"dateutc",
     "freq",
     "model",
     "stationtype",
